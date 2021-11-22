@@ -4,4 +4,5 @@ pandas
 tensorflow==2.5
 streamlit
 regex
+nltk
 scipy
